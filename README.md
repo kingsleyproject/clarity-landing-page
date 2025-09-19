@@ -1,2 +1,3 @@
-# clarity-landing-page
-The landing page for Clarity. Tame your digital shame pile.
+# Clarity Landing Page
+
+Landing page for Clarity. Built with HTML and Tailwind CSS.
